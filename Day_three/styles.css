@@ -1,0 +1,78 @@
+.nav-bar {
+	background-color: #ff4c68;
+}
+
+/*DOWNLOAD SECTION*/
+
+#download-section {
+	background-color: #ff4c68;
+	font-family: "Montserrat";
+	padding-left: 2rem;
+}
+
+a.navbar-brand {
+	font-family: 'Parisienne';
+	font-weight: 800;
+}
+
+.col-lg-6 .ad-text {
+	text-align: left;
+	padding-top: 10rem;
+}
+
+.download-buttons {
+	padding-left: 5rem;
+	padding-top: 2rem;
+}
+
+.col-lg-6 .mobile-phone img{
+	height: 30rem;
+	margin-left: 5rem;
+}
+
+/*FEATURES*/
+#features {
+	background-color: white;
+	text-align: center;
+	padding-top: 5rem;
+	padding-bottom: 2.5rem;
+}
+
+#features i {
+	color: #ff4c68;
+	font-size: 3rem;
+	line-height: 1.5rem;
+}
+
+#features h1 {
+	font-family: "Ubuntu";
+}
+
+
+/*TESTIMONIALS*/
+#testimonials-section {
+	background-color: #ff4c68;
+	text-align: center;
+	padding: 5rem 7rem;
+}
+
+#testimonials-section img {
+	border-radius: 100%;
+	height: 100px;
+}
+
+#testimonials-section h2 {
+	font-family: "Incosolata";
+	line-height: 2.5rem;
+}
+
+.iphone6 {
+	height: 100px;
+	width: 7rem;
+}
+
+
+/*FOOTER*/	
+#contact {
+	text-align: center;
+}
