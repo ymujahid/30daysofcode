@@ -1,0 +1,24 @@
+.landing-page {
+	background-color: #ff4c68;
+}
+
+h1 {
+	font-family: "Montserrat";
+}
+
+.col-lg-6 .ad-text {
+	text-align: left;
+	padding-top: 20rem;
+	padding-left: 5rem;
+}
+
+.download-buttons {
+	padding-left: 5rem;
+	padding-top: 2rem;
+	/*text-align: center;*/
+}
+
+#footer {
+	text-align: center;
+	background-color: #ff4c68;
+}
